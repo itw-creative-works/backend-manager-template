@@ -1,0 +1,18 @@
+{
+  "name": "backend-manager-template",
+  "version": "1.0.0",
+  "description": "A template for Firebase backend management that simplifies Cloud Functions development, deployment, and maintenance.",
+  "scripts": {
+    "start": "firebase emulators:start"
+  },
+  "author": {
+    "name": "ITW Creative Works",
+    "email": "hello@itwcreativeworks.com",
+    "url": "https://itwcreativeworks.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "backend-manager": "latest"
+  },
+  "dependencies": {}
+}
