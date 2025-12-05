@@ -35,11 +35,7 @@
 3. Run these commands to get everything setup:
 ```bash
 npm install
-```
-
-## 📦 Installation
-```bash
-npm install backend-manager
+npm start
 ```
 
 ## 🔧 Configuration
