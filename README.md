@@ -34,7 +34,7 @@
 2. Clone the repo to your local machine.
 3. Run these commands to get everything setup:
 ```bash
-npm install
+cd functions
 npm start
 ```
 

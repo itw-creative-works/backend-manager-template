@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A template for Firebase backend management that simplifies Cloud Functions development, deployment, and maintenance.",
   "scripts": {
-    "start": "firebase emulators:start"
+    "start": "npm install && npx bm setup && npm start"
   },
   "author": {
     "name": "ITW Creative Works",
