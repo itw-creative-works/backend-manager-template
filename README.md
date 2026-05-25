@@ -44,5 +44,5 @@ npm start
 
 ## 🚀 Deployment
 ```bash
-firebase deploy --only functions
+npm run deploy
 ```

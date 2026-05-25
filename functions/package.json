@@ -4,7 +4,7 @@
   "description": "A template for Firebase backend management that simplifies Cloud Functions development, deployment, and maintenance.",
   "private": true,
   "scripts": {
-    "start": "npm install && npx bm setup && npm start"
+    "start": "npm install && npx mgr setup && npm start"
   },
   "author": {
     "name": "ITW Creative Works",
