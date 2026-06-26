@@ -18,6 +18,5 @@
   "license": "ISC",
   "dependencies": {
     "backend-manager": "latest"
-  },
-  "dependencies": {}
+  }
 }
