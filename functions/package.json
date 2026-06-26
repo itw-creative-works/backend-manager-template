@@ -16,7 +16,8 @@
     "url": ""
   },
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "backend-manager": "latest"
-  }
+  },
+  "dependencies": {}
 }
